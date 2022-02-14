@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Part A of the code is just a calculator that prints out the cost per week and cost per class depending on the amount of classes you're taking. Part B on the other hand is just a generated random list of objects from a 5 word list.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ Everything was fine.
 
 ## REFERENCES:
- < List any outside resources used >
+ None.
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ No.
